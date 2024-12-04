@@ -1,0 +1,73 @@
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /content/drive/MyDrive/turtle/Recog/side_R_train
+train: /content/drive/MyDrive/turtle/Recog/side_R_train
+val: /content/drive/MyDrive/turtle/Recog/side_R_train
+
+
+# Classes
+names:
+  0: k1
+  1: k10
+  2: k11
+  3: k12
+  4: k13
+  5: k14
+  6: k15
+  7: k16
+  8: k17
+  9: k18
+  10: k2
+  11: k20
+  12: k21
+  13: k23
+  14: k24
+  15: k25
+  16: k26
+  17: k27
+  18: k3
+  19: k4
+  20: k5
+  21: k7
+  22: k8
+  23: k9
+  24: m14
+  25: m15
+  26: m16
+  27: m17
+  28: m18
+  29: m19
+  30: m20
+  31: m21
+  32: m22
+  33: m23
+  34: m24
+  35: m25
+  36: m26
+  37: m27
+  38: m28
+  39: m29
+  40: m3
+  41: m30
+  42: s1
+  43: s10
+  44: s11
+  45: s13
+  46: s16
+  47: s17
+  48: s18
+  49: s19
+  50: s2
+  51: s20
+  52: s22
+  53: s23
+  54: s24
+  55: s25
+  56: s26
+  57: s28
+  58: s3
+  59: s4
+  60: s6
+  61: s7
+  62: s8
+  63: s9
